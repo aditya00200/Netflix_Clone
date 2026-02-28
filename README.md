@@ -51,7 +51,7 @@ Simply open the `index.html` file in any modern web browser to view the Netflix 
 
 
 ## 🌐 Live Demo
-netflix-clone-blue-iota.vercel.app
+https://netflix-clone-blue-iota.vercel.app/
 
 
 ---
